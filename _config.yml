@@ -4,3 +4,6 @@ author: NehalAditya
 email: nehaladityaresearch@gmail.com 
 description: > # This will be the site's description.
   Write a short description of your blog here.
+header_pages:
+ - allposts.md
+ - about.md
